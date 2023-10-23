@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="./readme-images/project-logo.png" />
+  <img src="/readme-images/project-logo.png"/>
 
   <h2 align="center">Gopal - Personal portfolio</h2>
 
@@ -14,7 +14,7 @@
 
 ### Demo Screeshots
 
-![Jack Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Gopal Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 This project is **free to use** and does not contains any license.
 # Personal-Portfolio
